@@ -119,11 +119,11 @@
           };
           xhr.send();
         });</script>
-  
-  
+
+
   <style>.grecaptcha-badge{visibility: hidden;}</style>
   <meta name="habr-version" content="2.153.0">
-  
+
   <meta data-vue-meta="ssr" itemprop="image" content="/img/habr_en.png" data-vmid="image:itemprop"><meta data-vue-meta="ssr" property="og:image" content="/img/habr_en.png" data-vmid="og:image"><meta data-vue-meta="ssr" property="og:image:width" content="1200" data-vmid="og:image:width"><meta data-vue-meta="ssr" property="og:image:height" content="630" data-vmid="og:image:height"><meta data-vue-meta="ssr" property="aiturec:image" content="/img/habr_en.png" data-vmid="aiturec:image"><meta data-vue-meta="ssr" name="twitter:image" content="/img/habr_en.png" data-vmid="twitter:image"><meta data-vue-meta="ssr" property="vk:image" content="/img/habr_en.png?format=vk" data-vmid="vk:image"><meta data-vue-meta="ssr" property="fb:app_id" content="444736788986613"><meta data-vue-meta="ssr" property="fb:pages" content="472597926099084"><meta data-vue-meta="ssr" name="twitter:card" content="summary_large_image"><meta data-vue-meta="ssr" name="twitter:site" content="@habr_eng"><meta data-vue-meta="ssr" property="og:locale" content="en_US" data-vmid="og:locale"><meta data-vue-meta="ssr" property="og:type" content="website" data-vmid="og:type"><meta data-vue-meta="ssr" property="og:site_name" content="Habr" data-vmid="og:site_name"><meta data-vue-meta="ssr" name="description" content="All Habr articles sorted by date" data-vmid="description"><meta data-vue-meta="ssr" property="og:description" content="All Habr articles sorted by date" data-vmid="og:description"><meta data-vue-meta="ssr" property="og:title" content="All articles in a row / Habr" data-vmid="og:title"><meta data-vue-meta="ssr" property="og:url" content="https://habr.com/en/articles/" data-vmid="og:url">
   <link data-vue-meta="ssr" rel="image_src" href="/img/habr_en.png" data-vmid="image:href"><link data-vue-meta="ssr" href="https://habr.com/en/articles/" rel="canonical" data-vmid="canonical"><link data-vue-meta="ssr" href="https://habr.com/en/articles/" hreflang="en" rel="alternate" data-vmid="hreflang"><link data-vue-meta="ssr" href="https://habr.com/ru/articles/" hreflang="ru" rel="alternate" data-vmid="hreflang"><link data-vue-meta="ssr" href="https://habr.com/en/rss/articles/?fl=en" type="application/rss+xml" title="All articles in a row" rel="alternate" name="rss">
   <meta name="apple-mobile-web-app-status-bar-style" content="#303b44">
@@ -310,15 +310,15 @@
   </h1> </div> <div class="tm-tabs tm-tabs_page-header tm-tabs"><div class="tm-tabs__scroll-area"><span class="tm-tabs__tab-item"><a href="/en/flows/all/" data-test-id="tab-link-active" class="tm-tabs__tab-link tm-tabs__tab-link tm-tabs__tab-link_active">
         Articles
         <!----> <span class="tm-tabs__tab-counter-new">
-          
+
         </span></a></span><span class="tm-tabs__tab-item"><a href="/en/posts/" class="tm-tabs__tab-link tm-tabs__tab-link">
         Posts
         <!----> <span class="tm-tabs__tab-counter-new">
-          
+
         </span></a></span><span class="tm-tabs__tab-item"><a href="/en/news/" class="tm-tabs__tab-link tm-tabs__tab-link">
         News
         <!----> <span class="tm-tabs__tab-counter-new">
-          
+
         </span></a></span><span class="tm-tabs__tab-item"><a href="/en/hubs/" class="tm-tabs__tab-link tm-tabs__tab-link">
         Hubs
         <!----> <!----></a></span><span class="tm-tabs__tab-item"><a href="/en/users/" class="tm-tabs__tab-link tm-tabs__tab-link">
@@ -681,7 +681,7 @@
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
     </script>
-  
+
   <script type="text/javascript" >
     (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
     m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
@@ -699,7 +699,7 @@
       <img src="https://mc.yandex.ru/watch/24049213" style="position:absolute; left:-9999px;" alt="" />
     </div>
   </noscript>
-  
+
     <script type="text/javascript">
       window.addEventListener('load', function () {
         setTimeout(() => {
@@ -708,7 +708,7 @@
         }, 0);
       });
     </script>
-  
+
 <script src="/js/ads.js" onload="window['zhY4i4nJ9K'] = true"></script>
 </body>
 </html>

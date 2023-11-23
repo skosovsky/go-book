@@ -32,7 +32,7 @@ func main() {
 			fmt.Fprintf(os.Stderr, "fetch: чтение %s: %v\n", url, err)
 		}
 		fmt.Println("")
-		
+
 		//b, err := io.ReadAll(resp.Body)
 		//resp.Body.Close()
 		//if err != nil {
