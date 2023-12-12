@@ -10,7 +10,7 @@ func main() {
 	reverse(&nums)
 	fmt.Println(nums)
 
-	rightS := rotate([]int{1, 2, 3, 4, 5, 6}, 4, "right")
+	rightS := rotate([]int{1, 2, 3, 4, 5, 6}, 4, "right") //nolint:gomnd
 	fmt.Println(rightS)
 
 	bytes := []byte("Hello, world!")
@@ -26,7 +26,7 @@ func reverse(s *[6]int) {
 
 func rotate(s []int, n int, direct string) []int {
 	if n > len(s) {
-		n = n % len(s)
+		n %= len(s)
 	}
 	if direct == "left" {
 		n = len(s) - n
